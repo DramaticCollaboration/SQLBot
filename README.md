@@ -55,7 +55,7 @@ docker run -d \
 ### UI
 
   <tr>
-    <img alt="q&a" src="https://github.com/user-attachments/assets/55526514-52f3-4cfe-98ec-08a986259280" />
+    <img width="1304" height="933" alt="image" src="https://github.com/user-attachments/assets/8d146b11-5e3f-423e-92db-d9938dd14cea" />
   </tr>
 
 ## 스타 역사
