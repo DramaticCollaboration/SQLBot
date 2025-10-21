@@ -11,7 +11,7 @@ const { wsCache } = useCache()
 
 const getDefaultLocale = () => {
   const language = wsCache.get('user.language')
-  return language || 'zh-CN'
+  return language || 'ko-KR'
 }
 
 const messages = {
